@@ -1,0 +1,6 @@
+[user]
+	email = marco@marcoloche.com
+	name = Marco Loche
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
