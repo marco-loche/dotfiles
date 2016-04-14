@@ -6,3 +6,5 @@
 	excludesfile = ~/.gitignore
 [push]
 	default = simple
+[merge]
+	ff = no
